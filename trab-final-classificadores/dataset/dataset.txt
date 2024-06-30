@@ -1,0 +1,3 @@
+Total = 289 imagens
+Com piscina = 172 imagens
+Sem piscina = 117 imagens
